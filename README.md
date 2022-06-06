@@ -10,6 +10,7 @@ It has been deployed on [heroku](https://backend-task-gramoday.herokuapp.com/)
 
 ## METHODS USED
 Done using MVC (model, view, controller) method, and everything has been well broken into modules.
+
 EDGE CASES covered:
 1. Duplicate data elimination.
 2. Form validation
