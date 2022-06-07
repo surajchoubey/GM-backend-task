@@ -13,7 +13,8 @@ Done using MVC (model, view, controller) method, and everything has been well br
 
 EDGE CASES covered:
 1. Duplicate data elimination.
-2. Form validation
+2. Form validation while creating a new entry in the database
+3. Report ID validation while making GET request and also while fetching from database
 
 ## Instruction:
 
